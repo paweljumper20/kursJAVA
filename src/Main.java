@@ -8,7 +8,7 @@ public class Main {
         
         
          System.out.println("trzecia linia ");
-        
+        System.out.println("nowa linia");
         //konflikt rozwiazany
 
     }
