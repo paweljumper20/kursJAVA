@@ -1,0 +1,9 @@
+# ignoruje wybrane pliki lub katalogi
+# ignoruj plik o nazwie git_init.iml
+
+KursJAVA.iml
+
+# ignotuj katalog .idea
+
+.idea/
+
